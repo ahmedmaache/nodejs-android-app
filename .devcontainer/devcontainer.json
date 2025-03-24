@@ -9,6 +9,8 @@
     "extensions": [
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode"
+        "saoudrizwan.claude-dev"
+        "rooveterinaryinc.roo-cline"
     ],
     "postCreateCommand": "npm install"
 }
